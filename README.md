@@ -1,1 +1,3 @@
 # Telecom_Churn_Case_Study
+
+In a recent telecom churn case study, I developed a logistic regression model to predict customer churn, focusing on factors such as service usage, billing information, and customer demographics. The data underwent extensive preprocessing and feature selection to ensure relevance and accuracy. Key predictors identified included high monthly charges and shorter tenure periods. The model's performance was evaluated using metrics like accuracy, precision, recall, F1-score, and AUC-ROC, demonstrating robust predictive capability. This model enables telecom companies to proactively target at-risk customers with personalized retention strategies, thereby reducing churn and enhancing customer satisfaction.
